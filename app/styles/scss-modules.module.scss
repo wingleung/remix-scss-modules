@@ -1,0 +1,7 @@
+@import "./variables.scss";
+
+.container {
+    color: $color-global;
+    background: $color-red;
+    border-top: 1rem solid $color-common;
+}
