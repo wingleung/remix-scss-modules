@@ -1,6 +1,6 @@
 # Remix playground: SCSS and SCSS modules
 
-This project is used to test the scss and scss modules support. For more info go to
+This project is used to test the scss and scss modules support. For more info go to https://github.com/remix-run/remix/pull/7612
 
 # Welcome to Remix!
 
